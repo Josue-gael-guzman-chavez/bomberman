@@ -2,6 +2,6 @@
 
 int main(int argc, char const *argv[])
 {
-    std::cout <<"Bomberman" << std::endl;
+    Juego 
     return 0;
 }
